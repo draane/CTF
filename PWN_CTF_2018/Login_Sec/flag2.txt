@@ -1,0 +1,4 @@
+check https://github.com/bl4de/ctf/blob/master/2017/HackDatKiwi_CTF_2017/md5games1/md5games1.md
+
+
+btw pwd2 = 0e215962017 and flag2 = _t0_be_4_pr3tty_ 
