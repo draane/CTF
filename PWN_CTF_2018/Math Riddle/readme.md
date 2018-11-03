@@ -1,13 +1,14 @@
-#  History
+#  Math Riddle
 tags: math
 
 ## Description
 
->This showed up in my fuzeb00k feed.
-![here](riddle.jpg)
-Check against:
+>This showed up in my fuzeb00k feed.<br>
+Check against:<br>
 *nc math.uni.hctf.fun 4321*<br>
 (Please don't DOS D:)
+
+![here](riddle.jpg)
 
 The task ask to find positive values for: a, b, c such that `a/(b+c) + b/(a+c) + c/(b+a) = N` with N = 10.
 
